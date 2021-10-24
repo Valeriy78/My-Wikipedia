@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 70vh;
+    width: 80%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.main {
+    padding: 10px;
+    background-color: #e6e6fa;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 20px;
+    margin: 5px;
+}
+
+.sidebar {
+    background-color: #ffe4c4;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.main input {
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.button {
+	width: 150px;
+	height: 30px;
+	background-color: lightgrey;
+    border-radius: 5px;
+}
+
+.button:hover {
+	background-color: darkgrey;
+}
+
+#search_button {
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: lightgrey;
+}
+
+#search_button:hover {
+    background-color: darkgrey;
+}
